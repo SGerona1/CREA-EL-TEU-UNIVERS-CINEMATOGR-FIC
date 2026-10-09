@@ -3,7 +3,7 @@
 ## 1. Leo – Lightning
 
 - **Nom:** Leo
-- **Poder principal:** Controla l'electricitat i pot moure's a gran velocitat.
+- **Poder principal:** Controla l'electricitat, pot moure's a gran velocitat i crear escuts elèctrics per protegir els seus companys.
 - **Origen:** Va obtenir els seus poders després de tocar una pedra blava procedent d'un meteorit.
 - **Funció dins de la saga:** És el líder de l'equip i el primer a descobrir els seus poders.
 
@@ -27,3 +27,17 @@
 - **Poder principal:** Pot crear i controlar el foc.
 - **Origen:** Va obtenir els seus poders quan va entrar en contacte amb la pedra blava.
 - **Funció dins de la saga:** És especialista en el combat i utilitza el foc per defensar Nova City.
+
+## 5. Daniel – Frost
+
+- **Nom:** Daniel
+- **Poder principal:** Pot controlar el gel i congelar objectes.
+- **Origen:** Va obtenir els seus poders després de trobar un fragment de la pedra blava en una muntanya.
+- **Funció dins de la saga:** Ajuda els Guardians a immobilitzar els enemics.
+
+## 6. Laura – Volt
+
+- **Nom:** Laura
+- **Poder principal:** Pot crear escuts d'energia i absorbir electricitat.
+- **Origen:** Va descobrir els seus poders durant un accident en un laboratori.
+- **Funció dins de la saga:** Protegeix l'equip dels atacs i ajuda a controlar l'energia de la pedra blava.
