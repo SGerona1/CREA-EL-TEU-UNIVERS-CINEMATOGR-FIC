@@ -20,9 +20,11 @@
 
 ## 3. Guardians: La batalla final
 
-- **Títol:** Guardians: La batalla final
+## 4. Guardians: Una nova amenaça
+
+- **Títol:** Guardians: Una nova amenaça
 - **Protagonistes:** Leo (Lightning), Max (Titan), Sara (Shadow), Alex (Flame), Daniel (Frost) i Laura (Volt).
-- **Antagonista:** Dr. Zero i Shadow Master.
-- **Escenari principal:** El centre de Nova City.
-- **Resum de l'argument:** El Dr. Zero i Shadow Master uneixen forces per conquerir Nova City. Els Guardians demanen ajuda a Daniel i Laura per defensar la ciutat. Després d'una gran batalla, els herois aconsegueixen derrotar els enemics i restaurar la pau.
-- **Capítols relacionats:** Capítol 3: La formació dels Avengers, i Capítol 4: La batalla pel futur de la Terra.
+- **Antagonista:** Dark.
+- **Escenari principal:** Nova City i una antiga base subterrània.
+- **Resum de l'argument:** Després de la batalla final, els Guardians pensen que Nova City torna a estar segura. Però Dark reapareix amb un fragment misteriós de la pedra blava que li permet augmentar els seus poders. L'equip haurà de descobrir d'on prové el fragment i unir les seves habilitats per evitar una nova catàstrofe.
+- **Capítols relacionats:** Capítol 5: El futur de l'univers cinematogràfic.

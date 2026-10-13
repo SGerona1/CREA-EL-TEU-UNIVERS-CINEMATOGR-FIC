@@ -41,3 +41,15 @@
 - **Poder principal:** Pot crear escuts d'energia i absorbir electricitat.
 - **Origen:** Va descobrir els seus poders durant un accident en un laboratori.
 - **Funció dins de la saga:** Protegeix l'equip dels atacs i ajuda a controlar l'energia de la pedra blava.
+
+## 🤝 Relació entre els superherois
+
+### Leo (Lightning) i Laura (Volt)
+
+Leo i Laura tenen una relació de confiança i amistat.
+Com que tots dos treballen amb l'electricitat i l'energia,
+combinen els seus poders per crear defenses més fortes.
+
+Leo aporta velocitat i atacs elèctrics, mentre que Laura
+absorbeix l'electricitat i crea escuts per protegir l'equip.
+Junts són una peça clau per defensar Nova City.
